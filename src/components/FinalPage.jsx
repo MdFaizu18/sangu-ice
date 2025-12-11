@@ -81,7 +81,7 @@ export function FinalPage() {
               transition={{ delay: 0.6 }}
               className="text-3xl md:text-4xl opacity-80 leading-relaxed"
             >
-              You mean a lot to me.
+              You mean a good friend to me.
             </motion.p>
 
             <motion.p
@@ -99,7 +99,7 @@ export function FinalPage() {
               transition={{ delay: 1 }}
               className="text-xl md:text-2xl opacity-70 italic pt-8 border-t border-gray-200 mt-8"
             >
-              — With love and apology,
+              — With care and apology,
               <br />
               <span className="font-semibold text-2xl md:text-3xl">Faizu</span>
             </motion.div>
