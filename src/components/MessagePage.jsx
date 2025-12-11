@@ -78,7 +78,7 @@ export function MessagePage({ onNext }) {
             />
             <div className="flex justify-between text-base md:text-lg opacity-60 px-2">
               <span>Sad</span>
-              <span>Hopeful</span>
+              <span>Happy</span>
             </div>
           </div>
 
